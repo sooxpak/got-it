@@ -1,8 +1,8 @@
-![갓잇-댓글](https://github.com/user-attachments/assets/9bc45462-c7d8-41bd-bfdf-91f4b9e23a97)
 <div align="center">
  <img src="https://github.com/user-attachments/assets/8bd1a3ea-5b29-4f1c-80de-6cdfc66b6bc1">
 </div>
 <br/>
+
 # 온라인 학습 커뮤니티
 
 **고등교육 학습자들이 효율적으로 지식과 정보를 공유할 수 있는 온라인 커뮤니티 게시판 플랫폼**
@@ -25,7 +25,6 @@
 - [기술 스택](#-기술-스택)
 - [팀 구성](#-팀-구성)
 - [주요 성과](#-주요-성과)
-- [핵심 도전 과제](#-핵심-도전-과제)
 
 ---
 
